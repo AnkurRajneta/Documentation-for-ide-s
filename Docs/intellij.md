@@ -7,17 +7,17 @@
 
 1. Download the latest version of Intellij from [here](https://www.jetbrains.com/idea/download/#section=windows)
 
-![Download page of Intellij](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/main/images/intellij/download_page.png)
+![Download page](/image/download_page.png)
 
 1. Install the latest version of Intellij.
 
 2. Open Intellij once the installation is completed.
 
-![Intellij welcome page](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/main/images/intellij/front_page.png)
+![Intellij welcome page](/image/front_page.png)
 
 1. Click on create new project.
 
-![Create new project](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/main/images/intellij/front_page.png)
+![Create new project](/image/file_new.png)
 
 ## Features
 

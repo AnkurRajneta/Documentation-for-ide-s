@@ -6,14 +6,14 @@
 
 1. Download the latest version of Pycharm from [here](https://www.jetbrains.com/pycharm/download/#section=windows)
 
-![Download page of pycharm](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/main/images/pycharm/download_page.png)
+![Download page of pycharm](/images/Download_page.png)
 
 1. Install the latest version of Pycharm.
 
 2. Open Pycharm once the installation is completed.
 
 
-![Pycharm welcome page](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/39bed69610b57e1ede1b71f2e6da6e7d16a759fd/images/pycharm/front_page.png)
+![Pycharm welcome page](/images/front_page.png)
 
 1. Click on create new project.
 
