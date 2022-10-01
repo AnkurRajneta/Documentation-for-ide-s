@@ -10,3 +10,5 @@ In Market we are having many IDE's like Visual Studio, Eclipse, Netbeans, Intell
 1. [Visual Studio Code](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/7af9214c9f86681c8bb9d83543da14093df63a76/Docs/vs_code.md)
 
 2. [Pycharm](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/39bed69610b57e1ede1b71f2e6da6e7d16a759fd/Docs/pycharm.md)
+
+3. [Intellij](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/ebeab438cbcb724d495aa9c88a3005fcd26ab9bc/Docs/intellij.md) 
