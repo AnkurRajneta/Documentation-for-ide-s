@@ -6,18 +6,18 @@
 
 1. Download the latest version of Pycharm from [here](https://www.jetbrains.com/pycharm/download/#section=windows)
 
-![Download page of pycharm](/images/pycharm/download.png)
+![Download page](/images/pycharm/download.png)
 
-1. Install the latest version of Pycharm.
+2. Install the latest version of Pycharm.
 
-2. Open Pycharm once the installation is completed.
+3. Open Pycharm once the installation is completed.
 
 
-![Pycharm welcome page](/images/pycharm/front.png)
+![front](/images/pycharm/front.png)
 
-1. Click on create new project.
+4. Click on create new project.
 
-![Create new project](/images/pycharm/file_new.png)
+![project](/images/pycharm/new.png)
 
 ## Features
 
