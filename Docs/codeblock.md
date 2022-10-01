@@ -2,7 +2,7 @@
 
 Codeblock is an open source, cross-platform IDE for C, C++, and Fortran. It is a free and open source scientific environment written in C++, for C++, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.
 
-## Installation
+##  Installation
 
 1. Download the latest version of Codeblock from [here](https://www.codeblocks.org/downloads/26)
 
