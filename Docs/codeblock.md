@@ -6,17 +6,17 @@ Codeblock is an open source, cross-platform IDE for C, C++, and Fortran. It is a
 
 1. Download the latest version of Codeblock from [here](https://www.codeblocks.org/downloads/26)
 
-![Download page](https://www.codeblocks.org/downloads/26)
-
-1. Install the latest version of Codeblock.
-
-2. Open Codeblock once the installation is completed.
-3. ![Codeblock welcome page](https://i0.wp.com/technobyte.org/wp-content/uploads/2017/09/1-Getting-started-with-code-blocks.jpg?resize=768%2C415&ssl=1)
-4. Click on create new project.
-5. ![Create new project](https://wiki.codeblocks.org/images/8/8f/ProjectWizard.png)
-6. ![Project name](https://wiki.codeblocks.org/images/b/be/ConsoleApplication.png)
 
 
-7. Working page
-8. ![Working page](https://www.codeblocks.org/docs/codeblocks.png)
+2. Install the latest version of Codeblock.
+
+3. Open Codeblock once the installation is completed.
+4. ![Codeblock welcome page](https://i0.wp.com/technobyte.org/wp-content/uploads/2017/09/1-Getting-started-with-code-blocks.jpg?resize=768%2C415&ssl=1)
+5. Click on create new project.
+6. ![Create new project](https://wiki.codeblocks.org/images/8/8f/ProjectWizard.png)
+7. ![Project name](https://wiki.codeblocks.org/images/b/be/ConsoleApplication.png)
+
+
+8. Working page
+9. ![Working page](https://www.codeblocks.org/docs/codeblocks.png)
 
