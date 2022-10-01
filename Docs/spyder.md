@@ -6,15 +6,15 @@
 
 1. Download the latest version of Spyder from [here](https://www.spyder-ide.org/)
 
-![download page](/images/Spyder/spyder_download.png)
+![download page](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/6ed1c4adaa4fb0c19b32b5759f2afd987a2d50b5/images/Spyder/spyder_download.png)
 
-2. Install the latest version of Spyder.
+1. Install the latest version of Spyder.
 
-3. Open Spyder once the installation is completed.
+2. Open Spyder once the installation is completed.
 
-![Spyder welcome page](/images/Spyder/SpyderIDE.png)
+![Spyder welcome page](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/6ed1c4adaa4fb0c19b32b5759f2afd987a2d50b5/images/Spyder/SpyderIDE.png)
 
 1. Click on create new project.
 
-![Create new project](/images/Spyder/Spyder_new.png)
+![Create new project](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/6ed1c4adaa4fb0c19b32b5759f2afd987a2d50b5/images/Spyder/Spyder_new.png)
 
