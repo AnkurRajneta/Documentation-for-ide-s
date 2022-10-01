@@ -6,7 +6,7 @@
 
 1. Download the latest version of Visual Studio Code from [here](https://code.visualstudio.com/Download)
 
-![Download page of vs code](./images/dwn.png)
+![Download page of vs code](Documentation-for-ide-s\images\vs_code\dwn.png)
 
 1. Install the latest version of Visual Studio Code
 
