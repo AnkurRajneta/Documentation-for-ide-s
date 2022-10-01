@@ -15,8 +15,8 @@
 
 ![Intellij welcome page](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/main/images/intellij/front_page.png)
 
-1. Click on create new project.
 
+1. Click on create new project.
 ![Create new project](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/ebeab438cbcb724d495aa9c88a3005fcd26ab9bc/images/intellij/file_new.png)
 
 ## Features
