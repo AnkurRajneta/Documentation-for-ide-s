@@ -6,7 +6,7 @@
 
 1. Download the latest version of Pycharm from [here](https://www.jetbrains.com/pycharm/download/#section=windows)
 
-![Download page of pycharm](/images/pycharm/download_page.png)
+![Download page of pycharm](/images/pycharm/Download_page.png)
 
 2. Install the latest version of Pycharm.
 
