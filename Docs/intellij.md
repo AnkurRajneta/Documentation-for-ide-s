@@ -23,14 +23,14 @@
 
 - **Code completion**
 
-  - Intellij provides code completion for java code. It provides code completion for java keywords, built-in functions, and modules. It also provides code completion for third-party libraries.
+Intellij provides code completion for java code. It provides code completion for java keywords, built-in functions, and modules. It also provides code completion for third-party libraries.
 
 - **Code inspection**
     
-  - Intellij provides code inspection for java code. It provides code inspection for java keywords, built-in functions, and modules. It also provides code inspection for third-party libraries.
+Intellij provides code inspection for java code. It provides code inspection for java keywords, built-in functions, and modules. It also provides code inspection for third-party libraries.
 
 - **Code refactoring**
      
-  - Intellij provides code refactoring for java code. It provides code refactoring for java keywords, built-in functions, and modules. It also provides code refactoring for third-party libraries.
+Intellij provides code refactoring for java code. It provides code refactoring for java keywords, built-in functions, and modules. It also provides code refactoring for third-party libraries.
 
 
