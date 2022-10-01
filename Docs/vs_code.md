@@ -6,7 +6,7 @@
 
 1. Download the latest version of Visual Studio Code from [here](https://code.visualstudio.com/Download)
 
-![Download page of vs code](/images/dwn.png)
+![Download page of vs code](./images/dwn.png)
 
 1. Install the latest version of Visual Studio Code
 
@@ -14,5 +14,4 @@
 
 3. Open the extensions tab
 
-
-![main page](/images/one.png)
+![main page](./images/one.png)
