@@ -7,7 +7,7 @@
 
 1. Download the latest version of Intellij from [here](https://www.jetbrains.com/idea/download/#section=windows)
 
-![Download page](/image/download_page.png)
+![Download page](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/06f337bf4859fce72bff4926a71a1449e140bbf4/images/intellij/download_page.png)
 
 1. Install the latest version of Intellij.
 

@@ -12,3 +12,5 @@ In Market we are having many IDE's like Visual Studio, Eclipse, Netbeans, Intell
 2. [Pycharm](./Docs/pycharm.md)
 
 3. [Intellij Idea](./Docs/intellij.md)
+
+4. [Spyder IDE](./Docs/spyder.md)
