@@ -1,6 +1,6 @@
-# Documentation for ide's
+# Documentation for IDE's
 
-## This repository contains documentation for ide's
+## This repository contains documentation for various IDE's. This repository is a part of the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) event. Follow the [guidelines](guidelines.md) to contribute to this repository.
 
 ## What is an IDE?
 An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently. It increases developer productivity by combining capabilities such as software editing, building, testing, and packaging in an easy-to-use application.
