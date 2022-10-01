@@ -7,6 +7,8 @@ An integrated development environment (IDE) is a software application that helps
 
 In Market we are having many IDE's like Visual Studio, Eclipse, Netbeans, IntelliJ IDEA, etc. In this repository we will be covering documentation for some of the IDE's. This would contain the basic information about the IDE, how to install it, how to use it, etc.
 
-1. [Visual Studio Code](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/7af9214c9f86681c8bb9d83543da14093df63a76/Docs/vs_code.md)
+1. [Visual Studio Code](/Docs/vs_code.md)
 
-2. [Pycharm](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/39bed69610b57e1ede1b71f2e6da6e7d16a759fd/Docs/pycharm.md)
+2. [Pycharm](/Docs/pycharm.md)
+
+3. [Intellij Idea](/Docs/intellij.md)

@@ -15,5 +15,4 @@
 4. Open the extensions tab
 
 
-
 ![Extensions tab](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/8a30de748d9a10de8b7d23f7be040597cd88489d/images/vs_code_extensions_tab.png)
