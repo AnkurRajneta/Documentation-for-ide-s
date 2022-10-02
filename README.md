@@ -24,3 +24,5 @@ In Market we are having many text editors like Notepad++, Sublime Text, Atom, et
 5. [Eclipse](./Docs/Eclipse.md)
 
 6. [Codeblock](./Docs/codeblock.md)
+
+7. [Sublime Text](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/da47df422a05da5b3d19cd2bec55662b03dca359/Docs/sublime.md)
