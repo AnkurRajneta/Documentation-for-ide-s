@@ -1,6 +1,8 @@
 # Documentation for IDE's
 
-**This repository contains documentation for various IDE's and text editors. This repository is a part of the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) event. Follow the [guidelines](contributing.md) to contribute to this repository.**
+**This repository contains documentation for various IDE's and text editors. This repository is a part of the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) event. Follow the [guidelines](contributing.md) to contribute to this repository. Adhere to [code of conduct](/CODE_OF_CONDUCT.md) guidelines while contributing**
+
+_License: [MIT](LICENSE)_
 
 ## What is an IDE?
 
