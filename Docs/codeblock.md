@@ -4,7 +4,9 @@ Codeblock is an open source, cross-platform IDE for C, C++, and Fortran. It is a
 
 ##  Installation
 
-1. Download the latest version of Codeblock from [here](https://www.codeblocks.org/downloads/26) 
+
+1. Download the latest version of Codeblock from [here](https://www.codeblocks.org/downloads/)
+
 
 
 
