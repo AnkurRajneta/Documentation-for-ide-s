@@ -10,11 +10,11 @@ Sublime Text is a sophisticated text editor for code, markup and prose. You'll l
 
 ##  Working page
 
-![Working page](Documentation-for-ide-s\images\sublime\Front.png)
+![Working page](https://www.tutorialspoint.com/sublime_text/images/installation_downloading_setup.jpg)
 
 1. Open Sublime Text once the installation is completed.
 2. Create new file 
-3. ![New file](https://github.com/AnkurRajneta/Documentation-for-ide-s/blob/codeblock/images/sublime/New_file.png)
+3. ![New file](https://www.tutorialspoint.com/sublime_text/images/creating_file_step1.jpg)
 
 ##  Features
 
