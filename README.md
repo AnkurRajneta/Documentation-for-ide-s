@@ -33,3 +33,6 @@ In Market we are having many text editors like Notepad++, Sublime Text, Atom, et
 8. [Vim](./Docs/Vim.md)
 
 9. [Goland IDE](./Docs/Go_land.md)
+
+10. [Atom](./Docs/atom.md)
+
