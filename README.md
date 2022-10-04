@@ -36,3 +36,4 @@ In Market we are having many text editors like Notepad++, Sublime Text, Atom, et
 
 10. [Atom](./Docs/atom.md)
 
+11. [RubyMine](./Docs/RubyMine.md)
