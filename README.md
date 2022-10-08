@@ -1,8 +1,10 @@
 # Documentation for IDE's
 
-**This repository contains documentation for various IDE's and text editors. This repository is a part of the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) event. Follow the [guidelines](contributing.md) to contribute to this repository. Adhere to [code of conduct](/CODE_OF_CONDUCT.md) guidelines while contributing**
+## This repository contains short and easy documentation for various IDE's and text editors. This repository is also a part of the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) event
 
-_License: [MIT](LICENSE)_
+**Adhere to [code of conduct](/CODE_OF_CONDUCT.md) guidelines while contributing and taking part in discussions**
+
+**_License: [MIT](LICENSE)_**
 
 ## What is an IDE?
 
@@ -34,6 +36,6 @@ In Market we are having many text editors like Notepad++, Sublime Text, Atom, et
 
 9. [Goland IDE](./Docs/Go_land.md)
 
-10. [Atom](./Docs/atom.md)
+## Contributing
 
-11. [RubyMine](./Docs/RubyMine.md)
+Please read [CONTRIBUTING.md](./contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
